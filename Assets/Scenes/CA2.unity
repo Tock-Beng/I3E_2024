@@ -129,7 +129,7 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 1967694873}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &173895340
+--- !u!114 &173895345
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -138,7 +138,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 173895339}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cc2042b094875f4439cae48233db4e2b, type: 3}
+  m_Script: {fileID: 11500000, guid: 206872ccbf6a3fe41b73503898b83756, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   myScore: 5
@@ -1303,7 +1303,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myScore: 5
-  jumpHeightIncreaseAmount: 100
 --- !u!1 &1372740504
 GameObject:
   m_ObjectHideFlags: 0
@@ -1733,7 +1732,7 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 1657094421883451699, guid: 200754153c6d64f45878f7d9a0252340,
         type: 3}
       insertIndex: -1
-      addedObject: {fileID: 173895340}
+      addedObject: {fileID: 173895345}
   m_SourcePrefab: {fileID: 100100000, guid: 200754153c6d64f45878f7d9a0252340, type: 3}
 --- !u!1 &2049830112
 GameObject:

@@ -62,7 +62,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 4ee0b99013d46c747977ff729b5a14a6, type: 2}
+  - {fileID: 2100000, guid: b8aacd35f763f374792943725c88aa7a, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -115,7 +115,7 @@ GameObject:
   m_Component:
   - component: {fileID: 765061998470060917}
   - component: {fileID: 988792419545710795}
-  - component: {fileID: 118620599943209340}
+  - component: {fileID: 1335423550222657154}
   m_Layer: 0
   m_Name: 'GreenLockedDoorHinge '
   m_TagString: Green
@@ -132,7 +132,7 @@ Transform:
   m_GameObject: {fileID: 9079035684613281070}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: -0.7071068, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: -7.738, y: 19.571, z: -28.478}
+  m_LocalPosition: {x: 4.9069138, y: 18.010504, z: -6.215}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -160,7 +160,7 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1, y: 1, z: 1.18}
   m_Center: {x: -0.32, y: 1, z: -0.86}
---- !u!114 &118620599943209340
+--- !u!114 &1335423550222657154
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -169,6 +169,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 9079035684613281070}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4cc1b82217e68d3498c959dc67266538, type: 3}
+  m_Script: {fileID: 11500000, guid: 733272858064f0148a367f265ecac4ab, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 

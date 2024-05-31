@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 8106531502520501494}
   - component: {fileID: 8235862349038795312}
   m_Layer: 0
-  m_Name: tiltedSteps
+  m_Name: 'tiltedSteps '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -30,7 +30,7 @@ Transform:
   m_GameObject: {fileID: 5892802402159858580}
   serializedVersion: 2
   m_LocalRotation: {x: -0.27612382, y: 0, z: 0, w: 0.9611221}
-  m_LocalPosition: {x: 2.57, y: 22.2, z: -31.879}
+  m_LocalPosition: {x: 15.272906, y: 19.847784, z: -9.623293}
   m_LocalScale: {x: 0.542323, y: 0.3510649, z: 0.6721567}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -301,7 +301,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: beab9a28e5f40a24ea9034e7d69b53a6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0

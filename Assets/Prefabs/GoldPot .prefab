@@ -13,11 +13,10 @@ GameObject:
   - component: {fileID: 2973445659526275721}
   - component: {fileID: 1902056505707497755}
   - component: {fileID: 5365740959935298260}
-  - component: {fileID: 312271121706729706}
   - component: {fileID: 555260459052079115}
   - component: {fileID: 2623770261728061956}
   m_Layer: 0
-  m_Name: GoldPot
+  m_Name: 'GoldPot '
   m_TagString: GoldPot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -32,7 +31,7 @@ Transform:
   m_GameObject: {fileID: 2078535845118095314}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -4.288, y: 7.376, z: 6.863}
+  m_LocalPosition: {x: 8.1, y: 9.755, z: 30.096}
   m_LocalScale: {x: 0.15204601, y: 0.1875868, z: 0.15204601}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -5774,7 +5773,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: fa8338b4162989a4f8509827367d0f87, type: 2}
+  - {fileID: 2100000, guid: bd60fe6fb086a7848913a4566f73b3e3, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -5804,29 +5803,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2078535845118095314}
   m_Mesh: {fileID: 0}
---- !u!136 &312271121706729706
-CapsuleCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2078535845118095314}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 0
-  serializedVersion: 2
-  m_Radius: 5
-  m_Height: 4.3291283
-  m_Direction: 1
-  m_Center: {x: -1.7203234, y: 2.0465822, z: -1.7022246}
 --- !u!65 &555260459052079115
 BoxCollider:
   m_ObjectHideFlags: 0
